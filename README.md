@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahul Singh
-- 👀 I’m interested in technology,Webinars..
+- 👀 I’m interested in technologies,Webinars..
 - 🌱 I’m currently learning Flutter and AI/ML
 - 💞️ I’m looking to collaborate on techie team,where we can discuss and develop future things.
 - 📫 How to reach me - You can reach me out on rahulx037@gmail.com 
