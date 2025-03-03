@@ -26,13 +26,15 @@
 - 👀 I’m interested in technologies,Webinars..
 - 🌱 I’m currently learning Flutter and AI/ML
 - 💞️ I’m looking to collaborate on techie team,where we can discuss and develop future things.
-- 📫 How to reach me - You can reach me out on rahulx037@gmail.com
+- 📫 How to reach me - You can reach me out on therahul037@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-icon.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Typescript" **alt="Ts" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-nodejs-logo-icon-download-in-svg-png-gif-file-formats--social-media-brand-pack-logos-icons-9631085.png?f=webp&w=256" title="Nodejs" **alt="Node" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
