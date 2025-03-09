@@ -24,7 +24,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @Rahul Singh , having 9 years of experience as Android Engineer & from last 5 years am exploring flutter.
 - 👀 I’m interested in technologies,Webinars..
-- 🌱 I’m currently learning Flutter and AI/ML
+- 🌱 I’m currently working with React Native & Nodejs along with TensorFlow.
 - 💞️ I’m looking to collaborate on techie team,where we can discuss and develop future things.
 - 📫 How to reach me - You can reach me out on therahul037@gmail.com
 
