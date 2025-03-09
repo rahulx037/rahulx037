@@ -12,7 +12,7 @@
   </a>
 </div>
   <h1>
-  Hey there 🤗 /n Hope you are doing well 
+  Hey there 🤗 \n Hope you are doing well 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
